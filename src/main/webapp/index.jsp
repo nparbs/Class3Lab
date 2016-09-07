@@ -9,9 +9,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Class 3 lab</title>
     </head>
+    <h2>Class 3 Lab</h2>
     <body>
         <p><a href="/Class3Lab/pager"/>Page Generator</p>
+        <p><a href="/Class3Lab/PageGenerator2.jsp"/>Page Generator 2</p>
     </body>
 </html>
