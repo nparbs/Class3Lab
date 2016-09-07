@@ -15,5 +15,7 @@
     <body>
         <p><a href="/Class3Lab/pager"/>Page Generator</p>
         <p><a href="/Class3Lab/PageGenerator2.jsp"/>Page Generator 2</p>
+        <p><a href="/Class3Lab/welcome.html"/>Welcome page</p>
+        
     </body>
 </html>
